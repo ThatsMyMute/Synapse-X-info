@@ -4,3 +4,4 @@ Website for Synapse X Themes and executor updates.
 
 For themes go to https://thatsmymute.github.io/Synapse-X-info/Themes.html
 For Synapses status and update logs go to https://thatsmymute.github.io/Synapse-X-info/Status.html
+# Enjoy
